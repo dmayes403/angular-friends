@@ -433,4 +433,7 @@ angular.module('myApp')
         }
       ]
 
+      var sortProp;
+      var sortDirection;
+
     });
